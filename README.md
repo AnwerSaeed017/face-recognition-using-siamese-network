@@ -96,14 +96,5 @@ Replace the path with your custom-trained model weights if necessary.
 
 ---
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributors
-
-- Your Name - Developer
-- Open to contributions from the community.
-
-For queries or contributions, feel free to create an issue or pull request on the repository.
 
